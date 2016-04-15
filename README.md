@@ -1,12 +1,12 @@
-# ComecandoPython
+## ComecandoPython
 Repositório do minicurso de python
 
 
-LINK DO JOGO INCOMPLETO
+#LINK DO JOGO INCOMPLETO
 
 http://www.codeskulptor.org/#user41_O0U9W6Dn3I_11.py
 
-PASSOS:
+#PASSOS:
 
 1 - Implementar um respawn aleatório
 2 - Tratar colisão Vertical
@@ -16,7 +16,7 @@ PASSOS:
 
 
 
-LINK DO JOGO COMPLETO
+#LINK DO JOGO COMPLETO
 
 http://www.codeskulptor.org/#user41_O0U9W6Dn3I_9.py
 
